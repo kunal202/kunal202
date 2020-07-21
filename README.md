@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**kunal202/kunal202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here are some Facts about me :
 
 - 🔭 I’m currently working on Side Project
 - 🌱 I’m currently learning React
