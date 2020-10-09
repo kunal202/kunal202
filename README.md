@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal202&label=Profile%20views&color=0e75b6&style=flat" alt="kunal202" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal202" alt="kunal202" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/kunalch28700667" target="blank"><img src="https://img.shields.io/twitter/follow/kunalch28700667?logo=twitter&style=for-the-badge" alt="kunalch28700667" /></a> </p>
 
 - 🔭 I’m currently working on **Blocked.io**
